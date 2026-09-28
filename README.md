@@ -4,6 +4,6 @@ Software developer based in Kigali, Rwanda. This is my portfolio: a 3D site with
 
 ## Website
 
-Live site: `https://your-website-url`
+Live site: `https://nelkeasha.github.io/portifolio_website/`
 
-Replace `https://your-website-url` with the address once the site is published.
+
